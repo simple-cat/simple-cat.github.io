@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>使用hexo创建个人博客</title>
+    <link href="/2022/07/03/hexo/"/>
+    <url>/2022/07/03/hexo/</url>
+    
+    <content type="html"><![CDATA[<p>（开头简介）<br>#一级标题<br>##二级标题<br>###三级标题<br>正文内容</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$命令行<br></code></pre></td></tr></table></figure><p>链接：<a href="https://hexo.io/docs/writing.html">链接</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>testMyFirstBlog</title>
     <link href="/2022/06/24/testMyFirstBlog/"/>
     <url>/2022/06/24/testMyFirstBlog/</url>
